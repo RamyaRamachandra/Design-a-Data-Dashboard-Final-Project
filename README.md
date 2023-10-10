@@ -20,3 +20,5 @@ PowerBI Tutorials [Optional Tool Choice]: If you choose to use PowerBI, and need
 
 Tableau Tutorials [Optional Tool Choice]: If you choose to use Tableau, and need some additional help navigating Tableau and getting your visualizations set up, the Tableau website offers training videos and tutorials that can guide you through the process.
 
+##### Dashboard link
+https://public.tableau.com/views/Superstore_16956349820510/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
